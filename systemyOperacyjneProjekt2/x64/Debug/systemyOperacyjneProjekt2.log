@@ -1,0 +1,8 @@
+﻿  systemyOperacyjneProjekt2.cpp
+C:\Users\48720\Desktop\systemyOperacyjneProjekt2\systemyOperacyjneProjekt2\systemyOperacyjneProjekt2.cpp(35,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\48720\Desktop\systemyOperacyjneProjekt2\systemyOperacyjneProjekt2\systemyOperacyjneProjekt2.cpp(65,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\48720\Desktop\systemyOperacyjneProjekt2\systemyOperacyjneProjekt2\systemyOperacyjneProjekt2.cpp(110,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\48720\Desktop\systemyOperacyjneProjekt2\systemyOperacyjneProjekt2\systemyOperacyjneProjekt2.cpp(169,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\48720\Desktop\systemyOperacyjneProjekt2\systemyOperacyjneProjekt2\systemyOperacyjneProjekt2.cpp(205,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\48720\Desktop\systemyOperacyjneProjekt2\systemyOperacyjneProjekt2\systemyOperacyjneProjekt2.cpp(298,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  systemyOperacyjneProjekt2.vcxproj -> C:\Users\48720\Desktop\systemyOperacyjneProjekt2\x64\Debug\systemyOperacyjneProjekt2.exe
